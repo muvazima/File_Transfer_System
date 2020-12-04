@@ -8,4 +8,4 @@ To Run:
 
 ### Client
 ```
-(python3 client_tcp.py)
+python3 client_tcp.py
